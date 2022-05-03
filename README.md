@@ -8,7 +8,7 @@
     - Running track and playing sports 🏃‍♂️
 ## Languages & Tools 💻
     - Angular HTML Java .Net Kotlin MongoDB Oracle 
-![alt text](https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg "Angular") ![alt text](https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png "HTML") ![alt text](https://c8.alamy.com/comp/PH8262/java-logo-illustration-programming-technology-PH8262.jpg "Java") ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png ".Net") ![alt text](https://g.foolcdn.com/art/companylogos/square/mdb.png "MongoDB") ![alt text](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png "Node JS")
+![alt text](https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg "Angular" =100x200) ![alt text](https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png "HTML" =100x200) ![alt text](https://c8.alamy.com/comp/PH8262/java-logo-illustration-programming-technology-PH8262.jpg "Java" =100x200) ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png ".Net") ![alt text](https://g.foolcdn.com/art/companylogos/square/mdb.png "MongoDB") ![alt text](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png "Node JS" =100x200)
 
 ![alt text](https://i.pinimg.com/originals/bc/91/d4/bc91d497bcc95f36e62dd9156aee0d9b.gif "Dance")
 # Most Used Languages
@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
