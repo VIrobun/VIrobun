@@ -7,7 +7,16 @@
     - Playing Video Games 🎮
     - Running track and playing sports 🏃‍♂️
 ## Languages & Tools 💻
-![alt text](https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg "Angular" =100x200) ![alt text](https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/html.svg "HTML") ![alt text](https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/java.svg "Java") ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png ".Net") ![alt text](https://g.foolcdn.com/art/companylogos/square/mdb.png "MongoDB") ![alt text](https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/kotlin.svg "Kotlin")
+    - Angular HTML Java .Net Kotlin MongoDB Oracle 
+<img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" style=" width:60px ; height:60px "  >
+<img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/html.svg" style=" width:60px ; height:60px "  >
+<img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/java.svg" style=" width:60px ; height:60px "  >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" style=" width:60px ; height:60px "  >
+<img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" style=" width:60px ; height:60px "  >
+<img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/kotlin.svg" style=" width:60px ; height:60px "  >
+<img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" style=" width:60px ; height:60px "  >
+<img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" style=" width:60px ; height:60px "  >
+
 
 ![alt text](https://i.pinimg.com/originals/bc/91/d4/bc91d497bcc95f36e62dd9156aee0d9b.gif "Dance")
 # Most Used Languages
