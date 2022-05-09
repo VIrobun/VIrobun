@@ -16,7 +16,6 @@
 <img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/kotlin.svg" style=" width:60px ; height:60px "  >
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png" style=" width:60px ; height:60px "  >
 
-|               |               |                 |                 |                 |                |       |
 | ------------- |:-------------:| :-------------: | :-------------: | :-------------: | :-------------:| -----:|
 | <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" style=" width:60px ; height:60px "  >      | <img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/html.svg" style=" width:60px ; height:60px "  > | <img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/java.svg" style=" width:60px ; height:60px "  > | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" style=" width:60px ; height:60px "  > | <img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" style=" width:60px ; height:60px "  > | <img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/kotlin.svg" style=" width:60px ; height:60px "  > | <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png" style=" width:60px ; height:60px "  > |
 
