@@ -10,7 +10,7 @@
 
 . <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" style=" width:60px ; height:60px "  >    . <img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/html.svg" style=" width:60px ; height:60px "  > . <img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/java.svg" style=" width:60px ; height:60px "  > . <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" style=" width:60px ; height:60px "  > . <img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" style=" width:60px ; height:60px "  > . <img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/kotlin.svg" style=" width:60px ; height:60px "  > . <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png" style=" width:60px ; height:60px "  > .
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=VIrobun&count_private=true&show_icons=true&hide=contribs)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=VIrobun&count_private=true&show_icons=true&hide=contribs&theme=nightowl)
 
 
 ![alt text](https://i.pinimg.com/originals/bc/91/d4/bc91d497bcc95f36e62dd9156aee0d9b.gif "Dance")
