@@ -15,7 +15,7 @@
 
 ![alt text](https://i.pinimg.com/originals/bc/91/d4/bc91d497bcc95f36e62dd9156aee0d9b.gif "Dance")
 # Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VIrobun&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VIrobun&layout=compact&theme=nord)
 <!--
 **VIrobun/VIrobun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
